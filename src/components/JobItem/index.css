@@ -1,0 +1,60 @@
+.job-item {
+  background-color: #202020;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+
+.job-link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.job-header {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.company-logo {
+  width: 65px;
+  height: 65px;
+}
+
+.job-header h2 {
+  margin: 0 0 8px;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.job-meta {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.job-meta div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.job-meta p {
+  margin-left: auto;
+}
+
+.job-item hr {
+  border: 0;
+  border-top: 1px solid #475569;
+  margin: 20px 0;
+}
+
+.description {
+  color: #cbd5e1;
+  line-height: 1.6;
+}

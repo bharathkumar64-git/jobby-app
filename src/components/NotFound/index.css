@@ -1,0 +1,16 @@
+.not-found-container {
+  min-height: 100vh;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.not-found-container img {
+  width: 400px;
+  max-width: 90%;
+}
